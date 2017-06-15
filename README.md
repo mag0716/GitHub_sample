@@ -9,3 +9,4 @@
 ## Squash and merge
 
 * 1
+* 2
