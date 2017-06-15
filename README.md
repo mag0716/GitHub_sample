@@ -5,3 +5,7 @@
 * 1
 * 2
 * 3
+
+## Squash and merge
+
+* 1
