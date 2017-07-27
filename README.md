@@ -1,5 +1,7 @@
 # GitHub_sample
 
+* version2
+
 ## Merge pull request
 
 * 1
