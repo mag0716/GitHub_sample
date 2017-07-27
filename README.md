@@ -1,6 +1,6 @@
 # GitHub_sample
 
-* version2
+* version1
 
 ## Merge pull request
 
@@ -15,6 +15,12 @@
 * 3
 
 ## Rebase and merge
+
+* 1
+* 2
+* 3
+
+## revert
 
 * 1
 * 2
