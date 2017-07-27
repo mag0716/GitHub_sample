@@ -1,6 +1,6 @@
 # GitHub_sample
 
-* version1
+* version3
 
 ## Merge pull request
 
